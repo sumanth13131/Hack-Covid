@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block image %}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style="display: block;
+    text-align: center;
+    width:600px;
+  background-color:#34eba1;
+  border: 1px solid red; 
+  border-radius: 10px;
+  margin-left: 30%;
+  font-family: Comic sans MS;
+
+  ">
+    <form action={{ url_for('showimage') }} method="POST" enctype="multipart/form-data">
+        <h2><label style="text-align:center;" > UPLOAD </label><h2>
+        <label for="myfile">Browse:</label>
+        <input type="file" id="myfile" name="myfile" accept="image/*">
+        <button style="background-color: blue;border: none;color: white;padding: 15px 32px;text-align: center; text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 25px;">PREDICT</button>
+    </form>
+</div>
+
+{% endblock%}

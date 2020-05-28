@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block image %}
+<br>
+<br>
+<br>
+
+<div>
+  <div style="border: 1px solid green; background-color:#33f567; width:15%;margin:auto;padding-left:10px; border-radius:10px"><p><a href="/image" style="text-decoration:none">Upload another image Click here</a></p></div>
+</div>
+<br>
+<br>
+</div>
+<div style = "margin-left: 20%">
+<img src={{ url_for('img_feed') }}  alt="Image">
+</div>
+<br><br><br><br><br><br><br><br>
+{% endblock%}
