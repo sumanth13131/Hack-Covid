@@ -1,11 +1,11 @@
-<h1>due to large files git not supporting those files(not uploading) ...to download full project files  <a href="https://www.jiocloud.com/s?t=cdBSvmUnBzVyzHOc&s=a3" target=_blank >click here</a><h1>
+due to large files git not supporting those files(not uploading) ...to download full project files link: https://www.jiocloud.com/s?t=cdBSvmUnBzVyzHOc&s=a3
 
 
 
 
 
 Demo link :  https://youtu.be/Vn0ELuglnKE
-***high lights of this submission :
+***high lights :
 	1.accuracy
 	2.speed detection
 	3.multipe face detection at a time
@@ -15,9 +15,9 @@ This project files contains:(//Testing//)
 -----sample testing only to view  live (no dependent modules ---file=detection.py run it "python detection.py")
 -----Full deployment run it "python app.py"
 ==============================================================================================================
-                                                                                                               Face Mask Detection
+                                      Face Mask Detection
 ==============================================================================================================
-###Please maximize this window to read ..!###  If any problem with this application please mail to me === sumanth13131@gmail.com, 9908713677 (or) 6300485079 
+###Please maximize this window to read ..!###  If any problem with this application, please mail to me => sumanth13131@gmail.com, 9908713677 (or) 6300485079 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project iam using Anaconda.
 	python version 3.7.7
